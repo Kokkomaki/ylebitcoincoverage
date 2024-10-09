@@ -40,13 +40,10 @@
 **Relative graph**
 - `data_for_relative_graph.py`
 - `python stackedarea.py`
-- image
 
 **Absolute graph**
 - `python absolutegraph.py`
-- image
  
 **Wordcloud**
 - `python extract_wordcloud.py`
 - `python create_wordcloud.py`
-- image
